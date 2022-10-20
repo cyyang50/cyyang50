@@ -13,7 +13,7 @@
 - ELT/ETL Workflow: **Apache Airflow, Python, R**
 - Cloud Service: **Amazon Web Services**
 - Data Visualization: **Tableau, Power BI**
-- Data Analytics: **MS Excel, SASI**
+- Data Analytics: **MS Excel, SAS**
 - ERP System: **SAP**
 ### 🚀Projects I've completed
 - Medical image analysis - classifying lung cancer subtype with histopathological images (Domain-Adversarial Neural Networks) ```(Python + TensorFlow, Deep Learning )```
