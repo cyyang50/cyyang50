@@ -1,4 +1,5 @@
 ### Hi there 👋, I'm Chueh from Taiwan and currently living in Luzern, Switzerland
+### 😊I am...
 - Cross-disciplinary professional with a Master's degree in ```Data Science``` and a Master's degree in ```Engineering```
 - ```Motivated data scientist``` with 2+ years of experience as a ```data analyst```
 - Experienced in a variety of ```projects```
