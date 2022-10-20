@@ -14,7 +14,7 @@
 - Data Visualization: **Tableau, Power BI**
 - Data Analytics: **MS Excel, SASI**
 - ERP System: **SAP**
-### Projects I've completed
+### 🚀Projects I've completed
 - Medical image analysis - classifying lung cancer subtype with histopathological images (Domain-Adversarial Neural Networks) ```(Python + TensorFlow, Deep Learning )```
 - Data Warehouse and Data Lake System Design: An Application for Searching Tourism Attractions in Switzerland 
 ```(AWS + Apache Airflow + Python + SQL, Database and Data Pipeline Architecture)```
